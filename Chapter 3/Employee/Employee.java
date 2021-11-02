@@ -1,9 +1,9 @@
 public class Employee {
 
     //instance variables
-    String name;
-    String lastName;
-    double monthlySalary;
+    private String name;
+    private String lastName;
+    private double monthlySalary;
 
     //constructor class
     public Employee (String name,String lastName, double monthlySalary) {
@@ -44,7 +44,7 @@ public class Employee {
 
     // More complex get method with formatting and yearly salary
     public void getInfo () {
-        System.out.printf("Emplyoee: %s %s%n",getName(),getLastName());
+        System.out.printf("Employee: %s %s%n",getName(),getLastName());
         System.out.printf("Monthly Salary: %.2f%nYearly: %.2f%n\n", getMonthlySalary(),getMonthlySalary()*12);
 
     }
