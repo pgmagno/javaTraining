@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Exercise 4.16: Mystery.java
+
 public class CreditLimitCalculator {
     public static void main(String[] args) {
 
