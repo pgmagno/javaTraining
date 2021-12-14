@@ -5,7 +5,7 @@ public class TwoLargestNumbers {
     public static void main (String[] args) {
 
         int counter = 1;
-        int number = 0;
+        int number;
         int firstLargest = 0;
         int secondLargest = 0;
 
@@ -15,10 +15,8 @@ public class TwoLargestNumbers {
             number = input.nextInt();
 
             if (number > firstLargest) {
+                secondLargest = firstLargest;
                 firstLargest = number;
-            }
-            if (number > secondLargest && number != firstLargest) {
-                secondLargest = number;
             }
             counter++;
         }
