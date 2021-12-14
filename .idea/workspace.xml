@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9878d156-1587-4937-95e8-9b697eb47973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.21 Largest Number/4.21 Largest Number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.21 Largest Number/LargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.22 Tabular Output/TabularOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.23 Two Largest Numbers/TwoLargestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.24 Validating User Input/ValidatingUserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 4/4.23 Two Largest Numbers/TwoLargestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/4.23 Two Largest Numbers/TwoLargestNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 4/4.21 Largest Number" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -51,7 +48,7 @@
       <recent name="H:\Software Engineering\Projects\Java\JavaHowToProgram\Chapter 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoLargestNumbers">
+  <component name="RunManager" selected="Application.ValidatingUserInput">
     <configuration name="LargestNumber (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestNumber" />
       <module name="Chapter 4" />
@@ -64,13 +61,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Largest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4/4.21 Largest Number" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SalaryCalculator" />
-      <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidatingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidatingUserInput" />
+      <module name="Chapter 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidatingUserInput" />
         <item itemvalue="Application.TwoLargestNumbers" />
         <item itemvalue="Application.TabularOutput" />
         <item itemvalue="Application.LargestNumber (1)" />
         <item itemvalue="Application.LargestNumber" />
-        <item itemvalue="Application.SalaryCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -120,5 +117,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

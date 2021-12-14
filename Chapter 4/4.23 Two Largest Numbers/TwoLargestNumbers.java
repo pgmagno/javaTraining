@@ -6,7 +6,7 @@ public class TwoLargestNumbers {
 
         int counter = 1;
         int number;
-        int firstLargest = 0;
+        int largest = 0;
         int secondLargest = 0;
 
         Scanner input = new Scanner(System.in);
@@ -14,13 +14,13 @@ public class TwoLargestNumbers {
             System.out.print("Enter a number of sales: ");
             number = input.nextInt();
 
-            if (number > firstLargest) {
-                secondLargest = firstLargest;
-                firstLargest = number;
+            if (number > largest) {
+                secondLargest = largest;
+                largest = number;
             }
             counter++;
         }
-        System.out.printf("The first largest number is: %d%n", firstLargest);
+        System.out.printf("The largest number is: %d%n", largest);
         System.out.printf("The second largest number is: %d%n", secondLargest);
     }
 }
