@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9878d156-1587-4937-95e8-9b697eb47973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.32 Printing the Decimal Equivalent of Binary Number/DecimalEquivalentOfBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.33 Checkerboard of Asterisks/CheckerboardOfAsterisks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" afterDir="false" />
     </list>
@@ -47,7 +47,14 @@
       <recent name="H:\Software Engineering\Projects\Java\JavaHowToProgram\Chapter 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecimalEquivalentOfBinary">
+  <component name="RunManager" selected="Application.CheckerboardOfAsterisks">
+    <configuration name="CheckerboardOfAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckerboardOfAsterisks" />
+      <module name="Chapter 4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DecimalEquivalentOfBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecimalEquivalentOfBinary" />
       <module name="Chapter 4" />
@@ -76,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatingUserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidatingUserInput" />
-      <module name="Chapter 4" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckerboardOfAsterisks" />
         <item itemvalue="Application.DecimalEquivalentOfBinary" />
         <item itemvalue="Application.Palindromes" />
         <item itemvalue="Application.SquareOfAsterisks" />
         <item itemvalue="Application.Mystery2and3" />
-        <item itemvalue="Application.ValidatingUserInput" />
       </list>
     </recent_temporary>
   </component>

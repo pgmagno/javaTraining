@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/4.30 Square of Asterisks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4.31 Palindromes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4.32 Printing the Decimal Equivalent of Binary Number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.33 Checkerboard of Asterisks" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
