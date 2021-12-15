@@ -2,8 +2,8 @@ import java.util.Scanner; // class uses class Scanner
 
 public class ValidatingUserInput {
 
-         // Fig. 4.12: Analysis.java
-         // Analysis of examination results using nested control statements.
+// Fig. 4.24 Analysis.java
+// Analysis of examination results using nested control statements.
 
     public static void main(String[] args) {
                  // create Scanner to obtain input from command window
@@ -26,14 +26,15 @@ public class ValidatingUserInput {
              } else if (result == 2) {
                  failures = failures + 1;
              } else {
-                 System.out.println("Type a correct input");
+                 System.out.println(".: ERROR :.");
+                 System.out.println("Type in a valid result (1 = pass, 2 = fail)");
+                 System.out.println();
                  studentCounter--;
              }
 
              // increment studentCounter so loop eventually terminates
              studentCounter = studentCounter + 1;
              }
-
          // termination phase; prepare and display results
          System.out.printf("Passed: %d%nFailed: %d%n", passes, failures);
 
@@ -43,5 +44,4 @@ public class ValidatingUserInput {
          }
  }
  }
-
 

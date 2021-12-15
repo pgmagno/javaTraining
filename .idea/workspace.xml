@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9878d156-1587-4937-95e8-9b697eb47973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.24 Validating User Input/ValidatingUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.30 Mystery/SquareOfAsterisks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 4/4.23 Two Largest Numbers/TwoLargestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/4.23 Two Largest Numbers/TwoLargestNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 4/4.24 Validating User Input/ValidatingUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/4.24 Validating User Input/ValidatingUserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter 4/ValidatingUserInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter 4/ValidatingUserInput.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +50,17 @@
       <recent name="H:\Software Engineering\Projects\Java\JavaHowToProgram\Chapter 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidatingUserInput">
-    <configuration name="LargestNumber (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LargestNumber" />
+  <component name="RunManager" selected="Application.SquareOfAsterisks">
+    <configuration name="Mystery2and3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mystery2and3" />
       <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="16" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Largest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 4/4.21 Largest Number" />
+    <configuration name="SquareOfAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareOfAsterisks" />
+      <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareOfAsterisks" />
+        <item itemvalue="Application.Mystery2and3" />
         <item itemvalue="Application.ValidatingUserInput" />
         <item itemvalue="Application.TwoLargestNumbers" />
         <item itemvalue="Application.TabularOutput" />
-        <item itemvalue="Application.LargestNumber (1)" />
-        <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
   </component>
