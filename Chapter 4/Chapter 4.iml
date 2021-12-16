@@ -16,6 +16,9 @@
       <sourceFolder url="file://$MODULE_DIR$/4.32 Printing the Decimal Equivalent of Binary Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4.33 Checkerboard of Asterisks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4.34 Multiples of Two with an Infinite Loop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.36 Sides of a Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.37 Sides of Right Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.38 Factorial" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

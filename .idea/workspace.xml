@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9878d156-1587-4937-95e8-9b697eb47973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.34 Multiples of Two with an Infinite Loop/MultiplesOfTwoWithInfiniteLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.36 Sides of a Triangle/SidesOfATriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.37 Sides of Right Triangle/SidesOfRightTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 4/4.34 Multiples of Two with an Infinite Loop/MultiplesOfTwoWithInfiniteLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/4.34 Multiples of Two with an Infinite Loop/MultiplesOfTwoWithInfiniteLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter 4/MultiplesOfTwoWithInfiniteLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter 4/MultiplesOfTwoWithInfiniteLoop.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +50,7 @@
       <recent name="H:\Software Engineering\Projects\Java\JavaHowToProgram\Chapter 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiplesOfTwoWithInfiniteLoop">
+  <component name="RunManager" selected="Application.SidesOfRightTriangle">
     <configuration name="CheckerboardOfAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckerboardOfAsterisks" />
       <module name="Chapter 4" />
@@ -69,15 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindromes" />
+    <configuration name="SidesOfATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SidesOfATriangle" />
       <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareOfAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquareOfAsterisks" />
+    <configuration name="SidesOfRightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SidesOfRightTriangle" />
       <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SidesOfRightTriangle" />
+        <item itemvalue="Application.SidesOfATriangle" />
         <item itemvalue="Application.MultiplesOfTwoWithInfiniteLoop" />
         <item itemvalue="Application.CheckerboardOfAsterisks" />
         <item itemvalue="Application.DecimalEquivalentOfBinary" />
-        <item itemvalue="Application.Palindromes" />
-        <item itemvalue="Application.SquareOfAsterisks" />
       </list>
     </recent_temporary>
   </component>
@@ -120,9 +123,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Chapter 4/4.34 Multiples of Two with an Infinite Loop/MultiplesOfTwoWithInfiniteLoop.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/Chapter 4/4.37 Sides of Right Triangle/SidesOfRightTriangle.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
