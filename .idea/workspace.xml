@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9878d156-1587-4937-95e8-9b697eb47973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.36 Sides of a Triangle/SidesOfATriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4/4.37 Sides of Right Triangle/SidesOfRightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.38.1 Factorial/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.38.2 Constant e/ConstantE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4/4.38.3 Constant e to the Power of X/ConstantEPowerX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 4/4.34 Multiples of Two with an Infinite Loop/MultiplesOfTwoWithInfiniteLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/4.34 Multiples of Two with an Infinite Loop/MultiplesOfTwoWithInfiniteLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter 4/MultiplesOfTwoWithInfiniteLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter 4/MultiplesOfTwoWithInfiniteLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter 4/SidesOfRightTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter 4/SidesOfRightTriangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,31 +50,37 @@
       <recent name="H:\Software Engineering\Projects\Java\JavaHowToProgram\Chapter 4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SidesOfRightTriangle">
-    <configuration name="CheckerboardOfAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckerboardOfAsterisks" />
+  <component name="RunManager" selected="Application.ConstantEPowerX">
+    <configuration name="ConstantE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantE" />
       <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalEquivalentOfBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalEquivalentOfBinary" />
+    <configuration name="ConstantEPowerX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstantEPowerX" />
       <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplesOfTwoWithInfiniteLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplesOfTwoWithInfiniteLoop" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="Chapter 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SidesOfATriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SidesOfATriangle" />
+    <configuration name="FactorialC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.ex04_38.FactorialC" />
       <module name="Chapter 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch04.ex04_38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstantEPowerX" />
+        <item itemvalue="Application.FactorialC" />
+        <item itemvalue="Application.ConstantE" />
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.SidesOfRightTriangle" />
-        <item itemvalue="Application.SidesOfATriangle" />
-        <item itemvalue="Application.MultiplesOfTwoWithInfiniteLoop" />
-        <item itemvalue="Application.CheckerboardOfAsterisks" />
-        <item itemvalue="Application.DecimalEquivalentOfBinary" />
       </list>
     </recent_temporary>
   </component>

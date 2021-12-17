@@ -18,7 +18,9 @@
       <sourceFolder url="file://$MODULE_DIR$/4.34 Multiples of Two with an Infinite Loop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4.36 Sides of a Triangle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4.37 Sides of Right Triangle" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/4.38 Factorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.38.1 Factorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.38.2 Constant e" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.38.3 Constant e to the Power of X" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
